@@ -1,0 +1,21 @@
+@import "./menu.css";
+
+
+
+.navbar{
+    border: 1px solid red;
+    width: 80%;
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: rgb(94, 12, 12);
+    margin: auto;
+
+
+}
+.navbar-link>a{
+    margin-right: 30px;
+    text-decoration: none;
+    color: white;
+}
